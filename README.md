@@ -1,16 +1,28 @@
-### Hi there 👋
+### Olá! Meu nome é Layza Nicolle.
 
-<!--
-**LayzaNicolle/layzanicolle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Sou técnica em desenvolvimento de sistemas pela ETE Porto Digital.
+- Desenvolvedora Front-end em formação pelo Projeto Start Recife em parceria com a Accenture.
+- Contate-me no e-mail: layzanicolle1@gmail.com
 
-Here are some ideas to get you started:
+<div>
+ <a href="https://github.com/layzanicolle'>
+ <img height="180em" src= "https://github-readme-stats.vercel.app/api?username=layzanicolle&show_icons=true&theme=dracula&includ_all_commits=true&count_private=true"/_>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layzanicolle&layout=compact&langs_count=16&theme=dracula"/_>
+</div>
+ <div style="display:inline_block"><br>
+ <img align="center" alt="Layza-Js" height="30" widt="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="center" alt="Layza-HTML" height="30" widt="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="Layza-CSS" height="30" widt="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="Layza-python" height="30" widt="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+<div> 
+ 
+  <a href="https://instagram.com/layzanicolle" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:layzanicolle1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/layza-nicolle-6911a0197" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+
