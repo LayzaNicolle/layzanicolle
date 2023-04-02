@@ -1,7 +1,6 @@
 ### Olá! Meu nome é Layza Nicolle.
 
 - Sou técnica em desenvolvimento de sistemas pela ETE Porto Digital.
-- Desenvolvedora Front-end em formação pelo Projeto Start Recife em parceria com a Accenture.
 
 <div>
  <a href="https://github.com/layzanicolle'>
