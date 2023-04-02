@@ -2,7 +2,6 @@
 
 - Sou técnica em desenvolvimento de sistemas pela ETE Porto Digital.
 - Desenvolvedora Front-end em formação pelo Projeto Start Recife em parceria com a Accenture.
-- Contate-me no e-mail: layzanicolle1@gmail.com
 
 <div>
  <a href="https://github.com/layzanicolle'>
